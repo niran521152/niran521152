@@ -10,4 +10,5 @@
 - 😄 Pronouns: ... Him/He
 - ⚡ Fun fact: ... there is an instragram page 
 
-<script type="text/javascript" id="clstr_globe" src="//cdn.clustrmaps.com/globe.js?d=5K02UESdsW6JuHgQKg8lTnB5qxIwSyxw-ztRkAiBCIg"></script>
+
+<a href="https://clustrmaps.com/site/1a6gp" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=5K02UESdsW6JuHgQKg8lTnB5qxIwSyxw-ztRkAiBCIg&cl=ffffff"></a>
