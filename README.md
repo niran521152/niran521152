@@ -4,8 +4,9 @@
 
 - 🔭 I’m currently working on ... Seismicity <br>
 - 🌱 I’m currently learning ... Data analysis using Python <br>
-- 👯 I’m looking to collaborate on ... Seismicity Forecasting <br>
 <!---
+- 👯 I’m looking to collaborate on ... Seismicity Forecasting <br>
+
 - 🤔 I’m looking for help with ... I have no idea what is going on this world <br>
 
 - 💬 Ask me about ...Nothing
