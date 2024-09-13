@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on ... Seismicity <br>
-- 🌱 I’m currently learning ... Data analysis using Python <br>
+- 🌱 I’m currently learning ... Data analysis using Python , R <br>
 <!---
 - 👯 I’m looking to collaborate on ... Seismicity Forecasting <br>
 
